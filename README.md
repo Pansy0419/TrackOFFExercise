@@ -4,12 +4,6 @@ Single screen app of calling RESTful APIs.
 By submitting email addresses or usernames using a button, the app is able to to trigger a RESTful service 
 that allows the entered account details to be quickly searched.
 
-## Example
-
-```
-Screenshot goes here
-```
-
 ## How to build
 
 ```
